@@ -1,3 +1,3 @@
 Hello,
 
-This the final project of the backend specilization from meta
+This the final project of the backend specialization from meta
